@@ -46,5 +46,5 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 </div>
 
 ## Projects
-- Security Monitoring using Splunk
+- <a href="https://github.com/Amoghx0/Security-Monitoring-using-Splunk">Security Monitoring using Splunk</a>
 - SOC Automation Project
