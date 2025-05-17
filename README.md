@@ -46,5 +46,5 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 </div>
 
 ## Projects
-- Detection Lab
+- Security Monitoring using Splunk
 - SOC Automation Project
