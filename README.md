@@ -11,7 +11,7 @@ My journey in Hacking has led me to develop a passion for cybersecurity, and I a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Security Monitoring using Splunk          | <a href="https://github.com/Amoghx0/Security-Monitoring-using-Splunk">Security Monitoring using Splunk</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
